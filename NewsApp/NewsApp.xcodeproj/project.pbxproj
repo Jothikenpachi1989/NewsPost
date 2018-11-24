@@ -22,7 +22,6 @@
 		123FB58821A9389600EBBB02 /* NewListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB58721A9389600EBBB02 /* NewListCell.swift */; };
 		123FB5C721A9B1FF00EBBB02 /* DataParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5C621A9B1FF00EBBB02 /* DataParser.swift */; };
 		123FB5CC21A9BC3B00EBBB02 /* SyncViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5CB21A9BC3B00EBBB02 /* SyncViewController.swift */; };
-		123FB5D121A9C75700EBBB02 /* TestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 123FB5CF21A9C75700EBBB02 /* TestData.json */; };
 		123FB5D321A9C79500EBBB02 /* DataParserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5D221A9C79500EBBB02 /* DataParserTests.swift */; };
 		123FB5D821A9CB2A00EBBB02 /* XCTestCase+Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5D721A9CB2A00EBBB02 /* XCTestCase+Utilities.swift */; };
 		12D59BBB21A9D7DC00389867 /* TestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 123FB5CF21A9C75700EBBB02 /* TestData.json */; };
@@ -345,7 +344,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				123FB5D121A9C75700EBBB02 /* TestData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
