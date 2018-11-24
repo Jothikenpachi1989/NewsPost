@@ -1,0 +1,1996 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2018 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1553,
+  "results": [
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/21\/us\/sandra-parks-milwaukee-gunfire.html",
+      "adx_keywords": "Parks, Sandra (d 2018);Milwaukee (Wis);Murders, Attempted Murders and Homicides;Firearms",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By CHRISTINA CARON",
+      "type": "Article",
+      "title": "Girl, 13, Who Wrote Essay on Gun Violence Is Killed by Stray Bullet",
+      "abstract": "\u201cLittle children are victims of senseless gun violence,\u201d Sandra Parks wrote in an essay about her hometown, Milwaukee. Two years later, she was dead.",
+      "published_date": "2018-11-21",
+      "source": "The New York Times",
+      "id": 100000006227453,
+      "asset_id": 100000006227453,
+      "views": 1,
+      "des_facet": [
+        "MURDERS, ATTEMPTED MURDERS AND HOMICIDES",
+        "FIREARMS"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "PARKS, SANDRA (D 2018)"
+      ],
+      "geo_facet": [
+        "MILWAUKEE (WIS)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bernice Parks, left, being consoled after her daughter Sandra Parks, 13, was killed by gunfire while in her bedroom on Monday.",
+          "copyright": "Mike De Sisti\/Milwaukee Journal-Sentinel, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-gunfire\/22xp-gunfire-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-gunfire\/22xp-gunfire-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-gunfire\/22xp-gunfire-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-gunfire\/22xp-gunfire-sfSpan.jpg",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-gunfire\/22xp-gunfire-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-gunfire\/22xp-gunfire-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1367,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-gunfire\/22xp-gunfire-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-gunfire\/22xp-gunfire-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-gunfire\/22xp-gunfire-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-gunfire\/22xp-gunfire-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/21\/nyregion\/new-york-storefronts-mystery-font.html",
+      "adx_keywords": "",
+      "column": "",
+      "section": "New York",
+      "byline": "By RUMSEY TAYLOR",
+      "type": "Interactive",
+      "title": "The Mystery Font That Took Over New York",
+      "abstract": "How did Choc, a quirky calligraphic typeface drawn by a French graphic designer in the 1950s, end up on storefronts everywhere?",
+      "published_date": "2018-11-21",
+      "source": "The New York Times",
+      "id": 100000006228228,
+      "asset_id": 100000006228228,
+      "views": 2,
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ichi Sushi at 2040 86th Street in Brooklyn.",
+          "copyright": "Vincent Tullo for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/nyregion\/25jpCHOC2\/25jpCHOC2-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/nyregion\/25jpCHOC2\/25jpCHOC2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/nyregion\/25jpCHOC2\/merlin_138924663_1eaa6c4c-0d2c-47e4-881c-7cda08ac7c44-articleInline.jpg",
+              "format": "Normal",
+              "height": 238,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/nyregion\/25jpCHOC2\/25jpCHOC2-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/nyregion\/25jpCHOC2\/merlin_138924663_1eaa6c4c-0d2c-47e4-881c-7cda08ac7c44-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 1024,
+              "width": 820
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/nyregion\/25jpCHOC2\/merlin_138924663_1eaa6c4c-0d2c-47e4-881c-7cda08ac7c44-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 1639
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/nyregion\/25jpCHOC2\/25jpCHOC2-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/nyregion\/25jpCHOC2\/25jpCHOC2-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/nyregion\/25jpCHOC2\/25jpCHOC2-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/nyregion\/25jpCHOC2\/25jpCHOC2-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/21\/opinion\/trump-saudi-arabia-khashoggi.html",
+      "adx_keywords": "United States International Relations;Embargoes and Sanctions;Graham, Lindsey;Khashoggi, Jamal;Mohammed bin Salman (1985- );Salman, King of Saudi Arabia;Trump, Donald J;Saudi Arabia;Iran",
+      "column": null,
+      "section": "Opinion",
+      "byline": "By MICHAEL DORAN and TONY BADRAN",
+      "type": "Article",
+      "title": "Trump Is Crude. But He\u2019s Right About Saudi Arabia.",
+      "abstract": "On the strategic questions that matter in the Middle East, the president is cleareyed.",
+      "published_date": "2018-11-21",
+      "source": "The New York Times",
+      "id": 100000006227940,
+      "asset_id": 100000006227940,
+      "views": 3,
+      "des_facet": [
+        "UNITED STATES INTERNATIONAL RELATIONS"
+      ],
+      "org_facet": [
+        "EMBARGOES AND SANCTIONS"
+      ],
+      "per_facet": [
+        "GRAHAM, LINDSEY",
+        "KHASHOGGI, JAMAL",
+        "MOHAMMED BIN SALMAN (1985- )",
+        "SALMAN, KING OF SAUDI ARABIA",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "SAUDI ARABIA",
+        "IRAN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Portraits of Saudi King Salman (R) and his son Crown Prince Mohammed bin Salman (MBS) are displayed in Riyadh last month.",
+          "copyright": "Fayez Nureldine\/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/opinion\/21DORAN\/21DORNAN-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/opinion\/21DORAN\/21DORNAN-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/opinion\/21DORAN\/21DORNAN-articleInline.jpg",
+              "format": "Normal",
+              "height": 125,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/opinion\/21DORAN\/21DORNAN-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/opinion\/21DORAN\/21DORNAN-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 673,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/opinion\/21DORAN\/21DORNAN-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1346,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/opinion\/21DORAN\/21DORNAN-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/opinion\/21DORAN\/21DORNAN-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/opinion\/21DORAN\/21DORNAN-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/opinion\/21DORAN\/21DORNAN-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/22\/world\/asia\/andaman-sentinelese-missionary.html",
+      "adx_keywords": "Politics and Government;Christians and Christianity;Murders, Attempted Murders and Homicides;Andaman Islands;India",
+      "column": null,
+      "section": "World",
+      "byline": "By KAI SCHULTZ, HARI KUMAR and JEFFREY GETTLEMAN",
+      "type": "Article",
+      "title": "Islanders Who Killed American Have a History of Guarding Their Isolation",
+      "abstract": "The Sentinelese, a tribe of Andaman islanders and one of the world\u2019s most enigmatic groups, have had limited interaction with outsiders.",
+      "published_date": "2018-11-22",
+      "source": "The New York Times",
+      "id": 100000006228996,
+      "asset_id": 100000006228996,
+      "views": 4,
+      "des_facet": [
+        "POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "CHRISTIANS AND CHRISTIANITY",
+        "MURDERS, ATTEMPTED MURDERS AND HOMICIDES"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "ANDAMAN ISLANDS",
+        "INDIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The North Sentinel Island in India&rsquo;s southeastern Andaman and Nicobar Islands.",
+          "copyright": "Gautam Singh\/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/23andamans1-print\/merlin_147157605_986e2331-24f0-4886-96d2-c2aa6033cd39-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/23andamans1-print\/merlin_147157605_986e2331-24f0-4886-96d2-c2aa6033cd39-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/23andamans1-print\/merlin_147157605_986e2331-24f0-4886-96d2-c2aa6033cd39-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/23andamans1-print\/merlin_147157605_986e2331-24f0-4886-96d2-c2aa6033cd39-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/23andamans1-print\/merlin_147157605_986e2331-24f0-4886-96d2-c2aa6033cd39-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 685,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/23andamans1-print\/merlin_147157605_986e2331-24f0-4886-96d2-c2aa6033cd39-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1338,
+              "width": 2000
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/23andamans1-print\/merlin_147157605_986e2331-24f0-4886-96d2-c2aa6033cd39-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/23andamans1-print\/merlin_147157605_986e2331-24f0-4886-96d2-c2aa6033cd39-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/23andamans1-print\/merlin_147157605_986e2331-24f0-4886-96d2-c2aa6033cd39-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/23andamans1-print\/merlin_147157605_986e2331-24f0-4886-96d2-c2aa6033cd39-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/21\/health\/fgm-female-genital-mutilation-law.html",
+      "adx_keywords": "Female Genital Mutilation;Law and Legislation;Decisions and Verdicts;Federal Courts (US);Federal-State Relations (US);Women and Girls;Michigan;Friedman, Bernard A;Shiite Muslims;India",
+      "column": null,
+      "section": "Health",
+      "byline": "By PAM BELLUCK",
+      "type": "Article",
+      "title": "Federal Ban on Female Genital Mutilation Ruled Unconstitutional by Judge",
+      "abstract": "In a Michigan case involving members of a small Muslim sect, the court found that only states, not federal prosecutors, could bring charges.",
+      "published_date": "2018-11-21",
+      "source": "The New York Times",
+      "id": 100000006228153,
+      "asset_id": 100000006228153,
+      "views": 5,
+      "des_facet": [
+        "FEMALE GENITAL MUTILATION",
+        "LAW AND LEGISLATION",
+        "DECISIONS AND VERDICTS",
+        "FEDERAL COURTS (US)",
+        "WOMEN AND GIRLS",
+        "SHIITE MUSLIMS"
+      ],
+      "org_facet": [
+        "FEDERAL-STATE RELATIONS (US)"
+      ],
+      "per_facet": [
+        "FRIEDMAN, BERNARD A"
+      ],
+      "geo_facet": [
+        "MICHIGAN",
+        "INDIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "FBI agents exiting the office of Dr. Fakhruddin Attar in Livonia, Mich., last year. Dr. Attar and Dr. Jumana Nagarwala were defendants in a case struck down by Judge Bernard Friedman.",
+          "copyright": "Clarence Tabb Jr.\/Detroit News, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/science\/22CUTTING\/22CUTTING-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/science\/22CUTTING\/22CUTTING-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/science\/22CUTTING\/22CUTTING-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/science\/22CUTTING\/22CUTTING-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/science\/22CUTTING\/merlin_121086869_9dddae56-60da-43ad-bb72-61d959fe28b2-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 786,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/science\/22CUTTING\/merlin_121086869_9dddae56-60da-43ad-bb72-61d959fe28b2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1572,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/science\/22CUTTING\/22CUTTING-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/science\/22CUTTING\/22CUTTING-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/science\/22CUTTING\/22CUTTING-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/science\/22CUTTING\/22CUTTING-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/21\/well\/move\/regular-exercise-may-keep-your-body-30-years-younger.html",
+      "adx_keywords": "Athletics and Sports;Exercise;Muscles;Elderly;Age, Chronological;Heart",
+      "column": "Phys Ed",
+      "section": "Well",
+      "byline": "By GRETCHEN REYNOLDS",
+      "type": "Article",
+      "title": "Regular Exercise May Keep Your Body 30 Years \u2018Younger\u2019",
+      "abstract": "The muscles of older men and women who have exercised for decades are indistinguishable in many ways from those of healthy 25-year-olds.",
+      "published_date": "2018-11-21",
+      "source": "The New York Times",
+      "id": 100000006225397,
+      "asset_id": 100000006225397,
+      "views": 6,
+      "des_facet": [
+        "ATHLETICS AND SPORTS",
+        "EXERCISE",
+        "MUSCLES"
+      ],
+      "org_facet": [
+        "ELDERLY",
+        "AGE, CHRONOLOGICAL",
+        "HEART"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/27\/well\/physed-age\/physed-age-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/27\/well\/physed-age\/physed-age-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/27\/well\/physed-age\/physed-age-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/27\/well\/physed-age\/physed-age-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/27\/well\/physed-age\/physed-age-jumbo-v2.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/27\/well\/physed-age\/physed-age-superJumbo-v2.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/27\/well\/physed-age\/physed-age-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/27\/well\/physed-age\/physed-age-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/27\/well\/physed-age\/physed-age-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/27\/well\/physed-age\/physed-age-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/22\/business\/black-friday.html",
+      "adx_keywords": "Black Friday and Cyber Monday (Shopping);Shopping and Retail;Thanksgiving Day;Holidays and Special Occasions;National Retail Federation",
+      "column": "",
+      "section": "Business",
+      "byline": "By THE NEW YORK TIMES",
+      "type": "Article",
+      "title": "Black Friday 2018: A Not-So-Wild Day for American Shoppers",
+      "abstract": "The holiday shopping season is upon us. Follow along with our reporters here.",
+      "published_date": "2018-11-22",
+      "source": "The New York Times",
+      "id": 100000006225132,
+      "asset_id": 100000006225132,
+      "views": 7,
+      "des_facet": [
+        "BLACK FRIDAY AND CYBER MONDAY (SHOPPING)",
+        "SHOPPING AND RETAIL"
+      ],
+      "org_facet": [
+        "THANKSGIVING DAY",
+        "HOLIDAYS AND SPECIAL OCCASIONS",
+        "NATIONAL RETAIL FEDERATION"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shoppers walking along Fifth Avenue in New York on Friday.",
+          "copyright": "Jeenah Moon for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23SHOPBRIEF-moon-01\/23SHOPBRIEF-moon-01-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23SHOPBRIEF-moon-01\/23SHOPBRIEF-moon-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23SHOPBRIEF-moon-01\/merlin_147227751_c5f69e2c-fd44-4fad-bd8b-fbceb6fa5bca-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23SHOPBRIEF-moon-01\/merlin_147227751_c5f69e2c-fd44-4fad-bd8b-fbceb6fa5bca-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23SHOPBRIEF-moon-01\/merlin_147227751_c5f69e2c-fd44-4fad-bd8b-fbceb6fa5bca-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23SHOPBRIEF-moon-01\/merlin_147227751_c5f69e2c-fd44-4fad-bd8b-fbceb6fa5bca-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23SHOPBRIEF-moon-01\/23SHOPBRIEF-moon-01-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23SHOPBRIEF-moon-01\/23SHOPBRIEF-moon-01-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23SHOPBRIEF-moon-01\/merlin_147227751_c5f69e2c-fd44-4fad-bd8b-fbceb6fa5bca-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23SHOPBRIEF-moon-01\/merlin_147227751_c5f69e2c-fd44-4fad-bd8b-fbceb6fa5bca-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/22\/us\/mcdonalds-minnesota-gun-white-man.html",
+      "adx_keywords": "Johnson, Lloyd Edward;Somali-Americans;Discrimination;McDonald's Corporation;Eden Prairie (Minnesota)",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By MIHIR ZAVERI",
+      "type": "Article",
+      "title": "Man Accused of Brandishing Gun at Teenagers in a McDonald\u2019s Is Arrested",
+      "abstract": "A group of mostly Somali-American teenagers got into an argument with the man at a McDonald\u2019s in Minnesota on Monday. Then, they said, he pulled out a gun.",
+      "published_date": "2018-11-22",
+      "source": "The New York Times",
+      "id": 100000006227239,
+      "asset_id": 100000006227239,
+      "views": 8,
+      "des_facet": [
+        "SOMALI-AMERICANS"
+      ],
+      "org_facet": [
+        "DISCRIMINATION",
+        "MCDONALD'S CORPORATION"
+      ],
+      "per_facet": [
+        "JOHNSON, LLOYD EDWARD"
+      ],
+      "geo_facet": [
+        "EDEN PRAIRIE (MINNESOTA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lloyd Edward Johnson, 55, was arrested on Wednesday, according to the city of Eden Prairie, Minn.",
+          "copyright": "via KSTP-TV",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-mcdonalds-2\/22xp-mcdonalds-2-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-mcdonalds-2\/merlin_147195606_d23fe94e-0944-4f84-bf95-65f930791d78-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-mcdonalds-2\/merlin_147195606_d23fe94e-0944-4f84-bf95-65f930791d78-articleInline.jpg",
+              "format": "Normal",
+              "height": 252,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-mcdonalds-2\/22xp-mcdonalds-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-mcdonalds-2\/merlin_147195606_d23fe94e-0944-4f84-bf95-65f930791d78-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 916,
+              "width": 691
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-mcdonalds-2\/merlin_147195606_d23fe94e-0944-4f84-bf95-65f930791d78-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 916,
+              "width": 691
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-mcdonalds-2\/22xp-mcdonalds-2-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-mcdonalds-2\/merlin_147195606_d23fe94e-0944-4f84-bf95-65f930791d78-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-mcdonalds-2\/22xp-mcdonalds-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/22xp-mcdonalds-2\/22xp-mcdonalds-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/23\/world\/asia\/andaman-missionary-john-chau.html",
+      "adx_keywords": "Christians and Christianity;Archaeology and Anthropology;Pandit, T N;India;Indian Ocean",
+      "column": null,
+      "section": "World",
+      "byline": "By JEFFREY GETTLEMAN, HARI KUMAR and KAI SCHULTZ",
+      "type": "Article",
+      "title": "A Man\u2019s Last Letter Before Being Killed on a Forbidden Island",
+      "abstract": "John Allen Chau\u2019s letter to his parents from the Andamans lays out a disturbing account of his final days trying to spread Christianity.",
+      "published_date": "2018-11-23",
+      "source": "The New York Times",
+      "id": 100000006229983,
+      "asset_id": 100000006229983,
+      "views": 9,
+      "des_facet": "",
+      "org_facet": [
+        "CHRISTIANS AND CHRISTIANITY",
+        "ARCHAEOLOGY AND ANTHROPOLOGY"
+      ],
+      "per_facet": [
+        "PANDIT, T N"
+      ],
+      "geo_facet": [
+        "INDIA",
+        "INDIAN OCEAN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Allen Chau, 26, of Washington State loved climbing mountains, camping, hiking, canoeing and seeing the world.",
+          "copyright": "via Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/24andaman-2-print\/24indiamurder1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/24andaman-2-print\/24indiamurder1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/24andaman-2-print\/24indiamurder1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/24andaman-2-print\/24indiamurder1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/24andaman-2-print\/24indiamurder1-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/24andaman-2-print\/24indiamurder1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 720,
+              "width": 1080
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/24andaman-2-print\/24indiamurder1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/24andaman-2-print\/24indiamurder1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/24andaman-2-print\/24indiamurder1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/world\/24andaman-2-print\/24indiamurder1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/19\/books\/review\/100-notable-books.html",
+      "adx_keywords": "Books and Literature;New York Times",
+      "column": "",
+      "section": "Books",
+      "byline": "By THE NEW YORK TIMES",
+      "type": "Interactive",
+      "title": "100 Notable Books of 2018",
+      "abstract": "The year\u2019s notable fiction, poetry and nonfiction, selected by the editors of The New York Times Book Review.",
+      "published_date": "2018-11-19",
+      "source": "The New York Times",
+      "id": 100000006150182,
+      "asset_id": 100000006150182,
+      "views": 10,
+      "des_facet": [
+        "BOOKS AND LITERATURE"
+      ],
+      "org_facet": [
+        "NEW YORK TIMES"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Esther Aarts",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/08\/books\/review\/100-notable-books-1542317132491\/100-notable-books-1542317132491-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/08\/books\/review\/100-notable-books-1542317132491\/100-notable-books-1542317132491-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/08\/books\/review\/100-notable-books-1542317132491\/100-notable-books-1542317132491-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/08\/books\/review\/100-notable-books-1542317132491\/100-notable-books-1542317132491-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/08\/books\/review\/100-notable-books-1542317132491\/100-notable-books-1542317132491-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/08\/books\/review\/100-notable-books-1542317132491\/100-notable-books-1542317132491-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/08\/books\/review\/100-notable-books-1542317132491\/100-notable-books-1542317132491-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/08\/books\/review\/100-notable-books-1542317132491\/100-notable-books-1542317132491-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/08\/books\/review\/100-notable-books-1542317132491\/100-notable-books-1542317132491-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/10\/08\/books\/review\/100-notable-books-1542317132491\/100-notable-books-1542317132491-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/18\/opinion\/thanksgiving-family-argue-chat-bot.html",
+      "adx_keywords": "Debates (Political);Debates (Academic);Politics and Government;Trump, Donald J;United States Economy",
+      "column": "",
+      "section": "Opinion",
+      "byline": "By KARIN TAMERIUS",
+      "type": "Interactive",
+      "title": "How to Have a Conversation With Your Angry Uncle Over Thanksgiving",
+      "abstract": "Arguing doesn\u2019t change minds. Here\u2019s what does.",
+      "published_date": "2018-11-18",
+      "source": "The New York Times",
+      "id": 100000006215948,
+      "asset_id": 100000006215948,
+      "views": 11,
+      "des_facet": [
+        "DEBATES (POLITICAL)",
+        "DEBATES (ACADEMIC)",
+        "POLITICS AND GOVERNMENT",
+        "UNITED STATES ECONOMY"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/thanksgiving-debate-argue-chat-bot-promo-1542232555081\/thanksgiving-debate-argue-chat-bot-promo-1542232555081-square320-v4.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/thanksgiving-debate-argue-chat-bot-promo-1542232555081\/thanksgiving-debate-argue-chat-bot-promo-1542232555081-thumbStandard-v4.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/thanksgiving-debate-argue-chat-bot-promo-1542232555081\/thanksgiving-debate-argue-chat-bot-promo-1542232555081-articleInline-v4.jpg",
+              "format": "Normal",
+              "height": 123,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/thanksgiving-debate-argue-chat-bot-promo-1542232555081\/thanksgiving-debate-argue-chat-bot-promo-1542232555081-sfSpan-v4.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/thanksgiving-debate-argue-chat-bot-promo-1542232555081\/thanksgiving-debate-argue-chat-bot-promo-1542232555081-jumbo-v4.jpg",
+              "format": "Jumbo",
+              "height": 665,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/thanksgiving-debate-argue-chat-bot-promo-1542232555081\/thanksgiving-debate-argue-chat-bot-promo-1542232555081-superJumbo-v4.jpg",
+              "format": "superJumbo",
+              "height": 1331,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/thanksgiving-debate-argue-chat-bot-promo-1542232555081\/thanksgiving-debate-argue-chat-bot-promo-1542232555081-square640-v4.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/thanksgiving-debate-argue-chat-bot-promo-1542232555081\/thanksgiving-debate-argue-chat-bot-promo-1542232555081-thumbLarge-v4.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/thanksgiving-debate-argue-chat-bot-promo-1542232555081\/thanksgiving-debate-argue-chat-bot-promo-1542232555081-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/thanksgiving-debate-argue-chat-bot-promo-1542232555081\/thanksgiving-debate-argue-chat-bot-promo-1542232555081-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/21\/us\/politics\/trump-chief-justice-roberts-rebuke.html",
+      "adx_keywords": "Roberts, John G Jr;Trump, Donald J;Obama, Barack;United States Politics and Government;Federal Courts (US);Supreme Court (US)",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By ADAM LIPTAK",
+      "type": "Article",
+      "title": "Chief Justice Defends Judicial Independence After Trump Attacks \u2018Obama Judge\u2019",
+      "abstract": "The Supreme Court\u2019s leader took offense at President Trump\u2019s criticism of a federal judge, suggesting Mr. Trump had a profound misunderstanding of a judge\u2019s role.",
+      "published_date": "2018-11-21",
+      "source": "The New York Times",
+      "id": 100000006227674,
+      "asset_id": 100000006227674,
+      "views": 12,
+      "des_facet": "",
+      "org_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "FEDERAL COURTS (US)",
+        "SUPREME COURT (US)"
+      ],
+      "per_facet": [
+        "ROBERTS, JOHN G JR",
+        "TRUMP, DONALD J",
+        "OBAMA, BARACK"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chief Justice John G. Roberts Jr. arriving for President Trump&rsquo;s inauguration ceremony in 2017.",
+          "copyright": "Pool photograph by Win McNamee",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/politics\/22dc-roberts-print\/22dc-roberts-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/politics\/22dc-roberts-print\/22dc-roberts-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/politics\/22dc-roberts-print\/22dc-roberts-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/politics\/22dc-roberts-print\/22dc-roberts-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/politics\/22dc-roberts-print\/22dc-roberts-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/politics\/22dc-roberts-print\/22dc-roberts-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/politics\/22dc-roberts-print\/22dc-roberts-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/politics\/22dc-roberts-print\/22dc-roberts-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/politics\/22dc-roberts-print\/22dc-roberts-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/22\/us\/politics\/22dc-roberts-print\/22dc-roberts-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/21\/world\/asia\/american-killed-andaman-island-tribe.html",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Indian Ocean;India;Andaman Islands",
+      "column": null,
+      "section": "World",
+      "byline": "By JEFFREY GETTLEMAN, HARI KUMAR and KAI SCHULTZ",
+      "type": "Article",
+      "title": "Isolated Tribe Kills American With Bow and Arrow on Remote Indian Island",
+      "abstract": "John Allen Chau had ventured to North Sentinel in the Andaman Sea, where the local tribe has killed outsiders simply for setting foot on their shore.",
+      "published_date": "2018-11-21",
+      "source": "The New York Times",
+      "id": 100000006226840,
+      "asset_id": 100000006226840,
+      "views": 13,
+      "des_facet": [
+        "MURDERS, ATTEMPTED MURDERS AND HOMICIDES"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "INDIAN OCEAN",
+        "INDIA",
+        "ANDAMAN ISLANDS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Indian government regulations prohibit any interaction with the people on North Sentinel, an island in the Andaman Sea.",
+          "copyright": "Gautam Singh\/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/world\/22tourist\/merlin_80375369_5a634825-215b-419b-a4ad-29efd1fe16d5-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/world\/22tourist\/merlin_80375369_5a634825-215b-419b-a4ad-29efd1fe16d5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/world\/22tourist\/merlin_80375369_5a634825-215b-419b-a4ad-29efd1fe16d5-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/world\/22tourist\/merlin_80375369_5a634825-215b-419b-a4ad-29efd1fe16d5-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/world\/22tourist\/merlin_80375369_5a634825-215b-419b-a4ad-29efd1fe16d5-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 685,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/world\/22tourist\/merlin_80375369_5a634825-215b-419b-a4ad-29efd1fe16d5-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1338,
+              "width": 2000
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/world\/22tourist\/merlin_80375369_5a634825-215b-419b-a4ad-29efd1fe16d5-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/world\/22tourist\/merlin_80375369_5a634825-215b-419b-a4ad-29efd1fe16d5-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/world\/22tourist\/22tourist-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/world\/22tourist\/22tourist-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/22\/us\/white-americans-minority-population.html",
+      "adx_keywords": "Race and Ethnicity;Population;Census;Whites;Minorities;Census Bureau;Prewitt, Kenneth;United States",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By SABRINA TAVERNISE",
+      "type": "Article",
+      "title": "Why the Announcement of a Looming White Minority Makes Demographers Nervous",
+      "abstract": "The idea of white demographic decline has become an object of fascination on the right and the left. But demographers have grown uneasy with the projection.",
+      "published_date": "2018-11-22",
+      "source": "The New York Times",
+      "id": 100000006218153,
+      "asset_id": 100000006218153,
+      "views": 14,
+      "des_facet": [
+        "RACE AND ETHNICITY",
+        "POPULATION",
+        "CENSUS",
+        "WHITES"
+      ],
+      "org_facet": [
+        "MINORITIES",
+        "CENSUS BUREAU"
+      ],
+      "per_facet": [
+        "PREWITT, KENNETH"
+      ],
+      "geo_facet": [
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cPeople went crazy,\u201d said Dowell Myers, a demographer at the University of Southern California, of the 2008 projection that non-Hispanic whites would drop below half the population by 2042.",
+          "copyright": "Jenna Schoenefeld for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/us\/00whiteminority-01\/00whiteminority-01-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/us\/00whiteminority-01\/00whiteminority-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/us\/00whiteminority-01\/00whiteminority-01-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/us\/00whiteminority-01\/00whiteminority-01-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/us\/00whiteminority-01\/00whiteminority-01-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/us\/00whiteminority-01\/00whiteminority-01-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/us\/00whiteminority-01\/00whiteminority-01-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/us\/00whiteminority-01\/00whiteminority-01-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/us\/00whiteminority-01\/00whiteminority-01-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/21\/us\/00whiteminority-01\/00whiteminority-01-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/19\/us\/politics\/trump-tax-cut-republican.html",
+      "adx_keywords": "Tax Credits, Deductions and Exemptions;Income Tax;Tax Cuts and Jobs Act (2017);Elections, House of Representatives;Trump, Donald J;Rohrabacher, Dana;Paulsen, Erik (1965- );Lance, Leonard;Faso, John J;Comstock, Barbara J;Midterm Elections (2018);California;New Jersey;New York State;Virginia;Minnesota",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By JIM TANKERSLEY and BEN CASSELMAN",
+      "type": "Article",
+      "title": "Did a Tax Increase Tucked Into Trump\u2019s Tax Cut Come Back to Bite Republicans?",
+      "abstract": "Republicans capped a popular deduction for state and local taxes to pay for the tax bill. That may have hurt some House Republicans in the midterms.",
+      "published_date": "2018-11-19",
+      "source": "The New York Times",
+      "id": 100000006211852,
+      "asset_id": 100000006211852,
+      "views": 15,
+      "des_facet": [
+        "TAX CREDITS, DEDUCTIONS AND EXEMPTIONS",
+        "INCOME TAX"
+      ],
+      "org_facet": [
+        "TAX CUTS AND JOBS ACT (2017)",
+        "ELECTIONS, HOUSE OF REPRESENTATIVES",
+        "MIDTERM ELECTIONS (2018)"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "ROHRABACHER, DANA",
+        "PAULSEN, ERIK (1965- )",
+        "LANCE, LEONARD",
+        "FASO, JOHN J",
+        "COMSTOCK, BARBARA J"
+      ],
+      "geo_facet": [
+        "CALIFORNIA",
+        "NEW JERSEY",
+        "NEW YORK STATE",
+        "VIRGINIA",
+        "MINNESOTA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump signed a $1.5 trillion tax cut into law last December. The law capped a popular tax break used by high-earning taxpayers in high-tax states.",
+          "copyright": "Doug Mills\/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/16\/business\/00DC-SALT-01\/00DC-SALT-01-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/16\/business\/00DC-SALT-01\/00DC-SALT-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/16\/business\/00DC-SALT-01\/merlin_131556269_ab62471d-bf52-496b-bfae-310b66c3d4f4-articleInline.jpg",
+              "format": "Normal",
+              "height": 115,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/16\/business\/00DC-SALT-01\/00DC-SALT-01-sfSpan.jpg",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/16\/business\/00DC-SALT-01\/merlin_131556269_ab62471d-bf52-496b-bfae-310b66c3d4f4-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 622,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/16\/business\/00DC-SALT-01\/merlin_131556269_ab62471d-bf52-496b-bfae-310b66c3d4f4-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1244,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/16\/business\/00DC-SALT-01\/00DC-SALT-01-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/16\/business\/00DC-SALT-01\/00DC-SALT-01-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/16\/business\/00DC-SALT-01\/00DC-SALT-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/16\/business\/00DC-SALT-01\/00DC-SALT-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/23\/climate\/us-climate-report.html",
+      "adx_keywords": "Global Warming;United States Economy;US Global Change Research Program (USGCRP);Gross Domestic Product;Environment;Greenhouse Gas Emissions;International Trade and World Market;Agriculture and Farming;Disasters and Emergencies;Weather;United States Politics and Government;Drought;Floods;Infrastructure (Public Works);Fires and Firefighters;Wildfires;Factories and Manufacturing;Regulation and Deregulation of Industry;Trump, Donald J;Midwestern States (US);United States",
+      "column": null,
+      "section": "Climate",
+      "byline": "By CORAL DAVENPORT and KENDRA PIERRE-LOUIS",
+      "type": "Article",
+      "title": "U.S. Climate Report Warns of Damaged Environment and Shrinking Economy",
+      "abstract": "Without major action to rein in global warming, the American economy could lose 10 percent of G.D.P. by 2100, according to a report from 13 federal agencies.",
+      "published_date": "2018-11-23",
+      "source": "The New York Times",
+      "id": 100000006229947,
+      "asset_id": 100000006229947,
+      "views": 16,
+      "des_facet": [
+        "GLOBAL WARMING",
+        "UNITED STATES ECONOMY",
+        "ENVIRONMENT",
+        "GREENHOUSE GAS EMISSIONS"
+      ],
+      "org_facet": [
+        "US GLOBAL CHANGE RESEARCH PROGRAM (USGCRP)",
+        "GROSS DOMESTIC PRODUCT",
+        "INTERNATIONAL TRADE AND WORLD MARKET",
+        "AGRICULTURE AND FARMING",
+        "DISASTERS AND EMERGENCIES",
+        "WEATHER",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "DROUGHT",
+        "FLOODS",
+        "INFRASTRUCTURE (PUBLIC WORKS)",
+        "FIRES AND FIREFIGHTERS",
+        "WILDFIRES",
+        "FACTORIES AND MANUFACTURING",
+        "REGULATION AND DEREGULATION OF INDUSTRY"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "MIDWESTERN STATES (US)",
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fighting the Camp Fire this month in Magalia, Calif.",
+          "copyright": "Justin Sullivan\/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/climate\/24cli-report-2\/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/climate\/24cli-report-2\/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/climate\/24cli-report-2\/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-articleInline.jpg",
+              "format": "Normal",
+              "height": 134,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/climate\/24cli-report-2\/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/climate\/24cli-report-2\/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 722,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/climate\/24cli-report-2\/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1445,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/climate\/24cli-report-2\/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/climate\/24cli-report-2\/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/climate\/24cli-report-2\/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/24\/climate\/24cli-report-2\/merlin_146590158_372cbff0-acb2-4bf5-8308-f9b1c200405d-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/22\/business\/media\/parade-watchers-are-thankful-for-matt-lauers-absence.html",
+      "adx_keywords": "Lauer, Matt;Thanksgiving Day;Parades;Macy's Inc;National Broadcasting Co;Twitter;New York City",
+      "column": null,
+      "section": "Business",
+      "byline": "By ZACH WICHTER",
+      "type": "Article",
+      "title": "Parade Watchers Are Thankful for Matt Lauer\u2019s Absence",
+      "abstract": "For the first time in 20 years, the former anchor did not host NBC\u2019s broadcast of the Macy\u2019s Thanksgiving Day Parade. ",
+      "published_date": "2018-11-22",
+      "source": "The New York Times",
+      "id": 100000006229126,
+      "asset_id": 100000006229126,
+      "views": 17,
+      "des_facet": [
+        "THANKSGIVING DAY",
+        "PARADES"
+      ],
+      "org_facet": [
+        "MACY'S INC",
+        "NATIONAL BROADCASTING CO",
+        "TWITTER"
+      ],
+      "per_facet": [
+        "LAUER, MATT"
+      ],
+      "geo_facet": [
+        "NEW YORK CITY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Matt Lauer hosted NBC\u2019s broadcast of the Macy\u2019s Thanksgiving Day Parade for 20 years. Twitter wasn\u2019t sad to see him go.",
+          "copyright": "Eric Liebowitz\/NBC",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23lauertweets-2\/23lauertweets-2-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23lauertweets-2\/23lauertweets-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23lauertweets-2\/23lauertweets-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 134,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23lauertweets-2\/merlin_63506708_c519abe9-c98c-40cf-983a-d4a36d84edea-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23lauertweets-2\/merlin_63506708_c519abe9-c98c-40cf-983a-d4a36d84edea-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23lauertweets-2\/merlin_63506708_c519abe9-c98c-40cf-983a-d4a36d84edea-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23lauertweets-2\/23lauertweets-2-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23lauertweets-2\/23lauertweets-2-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23lauertweets-2\/23lauertweets-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/business\/23lauertweets-2\/23lauertweets-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/22\/nyregion\/jose-peralta-dominican-american-senator-dead.html",
+      "adx_keywords": "Peralta, Jose R;State Legislatures;Queens (NYC);New York State;Politics and Government;Deaths (Obituaries)",
+      "column": null,
+      "section": "New York",
+      "byline": "By JEFFERY C. MAYS",
+      "type": "Article",
+      "title": "Jos\u00e9 Peralta, First Dominican-American Elected to New York State Senate, Dies at 47",
+      "abstract": "Mr. Peralta, a father of two, had served for 16 years in the State Assembly and the State Senate.",
+      "published_date": "2018-11-22",
+      "source": "The New York Times",
+      "id": 100000006229032,
+      "asset_id": 100000006229032,
+      "views": 18,
+      "des_facet": [
+        "POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "STATE LEGISLATURES",
+        "DEATHS (OBITUARIES)"
+      ],
+      "per_facet": [
+        "PERALTA, JOSE R"
+      ],
+      "geo_facet": [
+        "QUEENS (NYC)",
+        "NEW YORK STATE"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "State Senator Jos&eacute; R. Peralta in 2012. Mr. Peralta represented Queens for 16 years in the State Assembly and the State Senate.",
+          "copyright": "Victor J. Blue for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/nyregion\/23peralta\/23peralta-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/nyregion\/23peralta\/23peralta-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/nyregion\/23peralta\/merlin_61893770_1111b87b-0390-40fe-b0ce-d087f0f74fdb-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/nyregion\/23peralta\/merlin_61893770_1111b87b-0390-40fe-b0ce-d087f0f74fdb-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/nyregion\/23peralta\/merlin_61893770_1111b87b-0390-40fe-b0ce-d087f0f74fdb-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/nyregion\/23peralta\/merlin_61893770_1111b87b-0390-40fe-b0ce-d087f0f74fdb-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/nyregion\/23peralta\/23peralta-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/nyregion\/23peralta\/23peralta-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/nyregion\/23peralta\/merlin_61893770_1111b87b-0390-40fe-b0ce-d087f0f74fdb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/nyregion\/23peralta\/merlin_61893770_1111b87b-0390-40fe-b0ce-d087f0f74fdb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/22\/us\/survivors-california-wildfires.html",
+      "adx_keywords": "Wildfires;Paradise (Calif);Camp Fire",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By SIMON ROMERO",
+      "type": "Article",
+      "title": "Everything Around Him Burned. He Stayed Put, and Lived to Tell the Tale.",
+      "abstract": "Every storm has a few holdouts, who ignore evacuation orders and hunker down at home. In the case of Kevin Jeys, he stuck it out to save his animals.",
+      "published_date": "2018-11-22",
+      "source": "The New York Times",
+      "id": 100000006226526,
+      "asset_id": 100000006226526,
+      "views": 19,
+      "des_facet": [
+        "WILDFIRES"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "PARADISE (CALIF)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kevin Jeys rode out the Camp Fire in his home in Paradise, Calif., despite orders to evacuate.",
+          "copyright": "Jason Henry for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/us\/23holdout-01-print\/00holdout-01-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/us\/23holdout-01-print\/00holdout-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/us\/23holdout-01-print\/00holdout-01-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/us\/23holdout-01-print\/00holdout-01-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/us\/23holdout-01-print\/merlin_147154365_8fd85ffd-e24e-498c-88e4-3811d89d7af2-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 768,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/us\/23holdout-01-print\/merlin_147154365_8fd85ffd-e24e-498c-88e4-3811d89d7af2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1536,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/us\/23holdout-01-print\/00holdout-01-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/us\/23holdout-01-print\/00holdout-01-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/us\/23holdout-01-print\/23holdout-01-print-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/23\/us\/23holdout-01-print\/23holdout-01-print-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https:\/\/www.nytimes.com\/2018\/11\/22\/opinion\/sunday\/thanksgiving-politics-family.html",
+      "adx_keywords": "Thanksgiving Day;Kavanaugh, Brett M;Supreme Court (US);Ford, Christine Blasey;Work-Life Balance",
+      "column": null,
+      "section": "Opinion",
+      "byline": "By MAUREEN DOWD",
+      "type": "Article",
+      "title": "Of Monuments, Arguments, Vampires and Thanksgiving",
+      "abstract": "John Wayne, Brett Kavanaugh, my brothers Michael and Kevin, and me.",
+      "published_date": "2018-11-22",
+      "source": "The New York Times",
+      "id": 100000006227914,
+      "asset_id": 100000006227914,
+      "views": 20,
+      "des_facet": [
+        "WORK-LIFE BALANCE"
+      ],
+      "org_facet": [
+        "THANKSGIVING DAY",
+        "SUPREME COURT (US)"
+      ],
+      "per_facet": [
+        "KAVANAUGH, BRETT M",
+        "FORD, CHRISTINE BLASEY"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Monument Valley, Utah, last month.",
+          "copyright": "Rick Bowmer\/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/opinion\/25DOWD02\/25DOWD02-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/opinion\/25DOWD02\/25DOWD02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/opinion\/25DOWD02\/merlin_146187774_b55906cd-e41e-4afa-a27f-13a08df0f865-articleInline.jpg",
+              "format": "Normal",
+              "height": 100,
+              "width": 190
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/opinion\/25DOWD02\/25DOWD02-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/opinion\/25DOWD02\/merlin_146187774_b55906cd-e41e-4afa-a27f-13a08df0f865-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 539,
+              "width": 1024
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/opinion\/25DOWD02\/merlin_146187774_b55906cd-e41e-4afa-a27f-13a08df0f865-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1077,
+              "width": 2048
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/opinion\/25DOWD02\/25DOWD02-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/opinion\/25DOWD02\/25DOWD02-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/opinion\/25DOWD02\/25DOWD02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/25\/opinion\/25DOWD02\/25DOWD02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
