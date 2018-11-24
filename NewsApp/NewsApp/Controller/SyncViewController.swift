@@ -46,9 +46,8 @@ class SyncViewController: UIViewController {
     
     func syncComplete() {
         DispatchQueue.main.async {
-            self.dismiss(animated: true, completion: {
-                self.delegate?.updateNewsDataSource()
-            })
+            self.delegate?.updateNewsDataSource()
+            self.dismiss(animated: true, completion: nil)
         }
     }
     

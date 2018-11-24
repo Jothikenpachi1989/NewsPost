@@ -20,10 +20,8 @@
 		123FB58421A906B700EBBB02 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB58321A906B700EBBB02 /* Constants.swift */; };
 		123FB58621A9084900EBBB02 /* String+utilites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB58521A9084900EBBB02 /* String+utilites.swift */; };
 		123FB58821A9389600EBBB02 /* NewListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB58721A9389600EBBB02 /* NewListCell.swift */; };
-		123FB58921A9389600EBBB02 /* NewListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB58721A9389600EBBB02 /* NewListCell.swift */; };
 		123FB5C721A9B1FF00EBBB02 /* DataParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5C621A9B1FF00EBBB02 /* DataParser.swift */; };
 		123FB5CC21A9BC3B00EBBB02 /* SyncViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5CB21A9BC3B00EBBB02 /* SyncViewController.swift */; };
-		123FB5D021A9C75700EBBB02 /* TestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 123FB5CF21A9C75700EBBB02 /* TestData.json */; };
 		123FB5D121A9C75700EBBB02 /* TestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 123FB5CF21A9C75700EBBB02 /* TestData.json */; };
 		123FB5D321A9C79500EBBB02 /* DataParserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5D221A9C79500EBBB02 /* DataParserTests.swift */; };
 		123FB5D821A9CB2A00EBBB02 /* XCTestCase+Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5D721A9CB2A00EBBB02 /* XCTestCase+Utilities.swift */; };
@@ -338,7 +336,6 @@
 				123FB54B21A8F77C00EBBB02 /* LaunchScreen.storyboard in Resources */,
 				123FB54821A8F77C00EBBB02 /* Assets.xcassets in Resources */,
 				123FB54621A8F77B00EBBB02 /* Main.storyboard in Resources */,
-				123FB5D021A9C75700EBBB02 /* TestData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -382,7 +379,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				123FB5D321A9C79500EBBB02 /* DataParserTests.swift in Sources */,
-				123FB58921A9389600EBBB02 /* NewListCell.swift in Sources */,
 				123FB55621A8F77C00EBBB02 /* NewsAppTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

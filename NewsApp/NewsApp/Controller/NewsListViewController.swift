@@ -42,10 +42,6 @@ class NewsListViewController: UITableViewController, UISearchBarDelegate, NewsUp
         activityIndicator.addTarget(self, action: #selector(refreshNewsData), for: .valueChanged)
     }
 
-    
-    func startNewsSync() {
-        
-    }
     // MARK: - Searchbar Delegate
     
     public func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {

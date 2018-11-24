@@ -184,7 +184,7 @@
                             <outlet property="delegate" destination="7bK-jq-Zjz" id="RA6-mI-bju"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Most Viewed" id="Zdf-7t-Un8"/>
+                    <navigationItem key="navigationItem" title="Most Viewed News" id="Zdf-7t-Un8"/>
                     <connections>
                         <segue destination="nVq-I4-7T4" kind="presentation" identifier="syncSegue" id="UJ3-eO-iR2"/>
                     </connections>

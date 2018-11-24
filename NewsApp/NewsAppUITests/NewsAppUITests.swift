@@ -22,7 +22,7 @@ class NewsAppUITests: XCTestCase {
         app.launch()
         
         self.measure {
-            wait(forObjectToExist: app.navigationBars["Most Viewed"], timeout: .minute)
+            wait(forObjectToExist: app.navigationBars["Most Viewed News"], timeout: .minute)
         }
     }
 
