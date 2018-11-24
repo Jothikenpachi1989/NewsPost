@@ -25,6 +25,7 @@
 		123FB5D121A9C75700EBBB02 /* TestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 123FB5CF21A9C75700EBBB02 /* TestData.json */; };
 		123FB5D321A9C79500EBBB02 /* DataParserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5D221A9C79500EBBB02 /* DataParserTests.swift */; };
 		123FB5D821A9CB2A00EBBB02 /* XCTestCase+Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5D721A9CB2A00EBBB02 /* XCTestCase+Utilities.swift */; };
+		12D59BBB21A9D7DC00389867 /* TestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 123FB5CF21A9C75700EBBB02 /* TestData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -336,6 +337,7 @@
 				123FB54B21A8F77C00EBBB02 /* LaunchScreen.storyboard in Resources */,
 				123FB54821A8F77C00EBBB02 /* Assets.xcassets in Resources */,
 				123FB54621A8F77B00EBBB02 /* Main.storyboard in Resources */,
+				12D59BBB21A9D7DC00389867 /* TestData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
