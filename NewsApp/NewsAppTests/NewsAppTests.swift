@@ -20,11 +20,6 @@ class NewsAppTests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
 
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-    }
-
     func testJsonParsingPerformance() {
         // This is an example of a performance test case.
         guard let confirmedJsonData = DataParser.loadJSONWithFileName(testDataFile, bundle: Bundle.main) else {

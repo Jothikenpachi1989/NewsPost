@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NewsApp/Controller/NewsListViewController.swift"
-            timestampString = "564803486.483817"
+            timestampString = "564803580.281235"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "64"
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NewsAppTests/NewsAppTests.swift"
-            timestampString = "564776777.45094"
+            timestampString = "564803580.282622"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
             landmarkName = "testJsonParsingPerformance()"
             landmarkType = "7">
          </BreakpointContent>
