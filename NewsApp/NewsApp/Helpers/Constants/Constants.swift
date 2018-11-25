@@ -8,7 +8,6 @@
 import Foundation
 
 public struct Constants {
-    
     public enum DateFormat: String {
         case simpleYMD = "yyyy-MM-dd"
     }

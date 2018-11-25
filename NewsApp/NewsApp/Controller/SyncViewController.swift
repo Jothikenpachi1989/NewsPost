@@ -38,7 +38,7 @@ class SyncViewController: UIViewController {
         DispatchQueue.main.async {
             let controller = UIAlertController(title: title, message: message, preferredStyle: .alert)
             controller.addAction(UIAlertAction(title: "Ok", style: .cancel, handler: { (action) in
-                
+                self.syncComplete()
             }))
             self.present(controller, animated: true) {}
         }

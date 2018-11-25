@@ -16,6 +16,7 @@ class NewsListViewController: UITableViewController, UISearchBarDelegate, NewsUp
     var detailViewController: NewsDetailsViewController? = nil
     var filteredDataSource = [NewsList]()
     let activityIndicator = UIRefreshControl()
+    let appDelgate = UIApplication.shared.delegate as! AppDelegate
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -30,7 +31,7 @@ class NewsListViewController: UITableViewController, UISearchBarDelegate, NewsUp
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        if DataParser.shared.dataSource.count <= 0 {
+        if !appDelgate.isInitialDSyncStarted {
             self.presentSyncController()
         }
     }
@@ -69,6 +70,7 @@ class NewsListViewController: UITableViewController, UISearchBarDelegate, NewsUp
             }
         } else if segue.identifier == "syncSegue" {
             if let confirmedSyncController = segue.destination as? SyncViewController {
+                appDelgate.isInitialDSyncStarted = true
                 confirmedSyncController.delegate = self
             }
         }
