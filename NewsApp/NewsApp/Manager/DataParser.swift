@@ -13,6 +13,10 @@ class DataParser: NSObject {
     static let shared = DataParser()
     var dataSource = [NewsList]()
     
+    override private init() {
+        
+    }
+    
     func parseData(_ jsonData: Data, completionHandler: @escaping(String?) -> Void) {
         guard let confirmedJsonDict = try? JSONSerialization.jsonObject(with: jsonData, options: .allowFragments) as? [String: Any] else {
             completionHandler("Parse error")

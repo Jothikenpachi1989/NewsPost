@@ -39,25 +39,9 @@ class NewsDetailsViewController: UIViewController {
         newsDetailHeader.text = confirmedDetailItem.title
         newsImageCaption.text = confirmedDetailItem.imageCaption
         newsDetailAbstract.text = confirmedDetailItem.abstract
-        loadImagefromUrl(confirmedDetailItem.imageUrl)
+        newsDetailImage.imageFromURl(confirmedDetailItem.imageUrl, placeholderImage: UIImage(named: "default-image.png")!)
     }
     
-    func loadImagefromUrl(_ urlString: String?) {
-        guard let confirmedURLString = urlString,
-            let confirmedURL = URL(string: confirmedURLString) else {
-            return
-        }
-        
-        newsImageLoader.startAnimating()
-        APIManager.shared.getImageFromUrl(confirmedURL) { (image) in
-            DispatchQueue.main.async {
-                if let confirmedImage = image {
-                    self.newsDetailImage.image = confirmedImage
-                }
-                self.newsImageLoader.stopAnimating()
-            }
-        }
-    }
 
     /*
     // MARK: - Navigation

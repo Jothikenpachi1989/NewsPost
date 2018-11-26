@@ -16,7 +16,7 @@ class APIManager: NSObject {
     private let apiKey = "a324df68390143ef8bd776b9b6395647"
     private let urlSession = URLSession(configuration: URLSessionConfiguration.default)
     
-    override init() {
+    override private init() {
         urlSession.configuration.requestCachePolicy = .reloadIgnoringLocalAndRemoteCacheData
     }
     

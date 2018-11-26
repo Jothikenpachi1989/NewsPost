@@ -12,9 +12,13 @@ class NewListCell: UITableViewCell {
     @IBOutlet var newsTitle: UILabel!
     @IBOutlet var newsByTitle: UILabel!
     @IBOutlet var newsDate: UILabel!
+    @IBOutlet var newsImageContainer: UIView!
+    @IBOutlet var newsImageView: UIImageView!
     
     override func awakeFromNib() {
         super.awakeFromNib()
+        newsImageContainer.layer.cornerRadius = newsImageView.bounds.height / 2
+        
         // Initialization code
     }
 

@@ -24,6 +24,8 @@
 		123FB5CC21A9BC3B00EBBB02 /* SyncViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5CB21A9BC3B00EBBB02 /* SyncViewController.swift */; };
 		123FB5D321A9C79500EBBB02 /* DataParserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5D221A9C79500EBBB02 /* DataParserTests.swift */; };
 		123FB5D821A9CB2A00EBBB02 /* XCTestCase+Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 123FB5D721A9CB2A00EBBB02 /* XCTestCase+Utilities.swift */; };
+		125257A921ABC0AE006D716C /* UIImageView+Utilites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 125257A821ABC0AE006D716C /* UIImageView+Utilites.swift */; };
+		125257AB21ABC264006D716C /* default-image.png in Resources */ = {isa = PBXBuildFile; fileRef = 125257AA21ABC264006D716C /* default-image.png */; };
 		12D59BBB21A9D7DC00389867 /* TestData.json in Resources */ = {isa = PBXBuildFile; fileRef = 123FB5CF21A9C75700EBBB02 /* TestData.json */; };
 /* End PBXBuildFile section */
 
@@ -69,6 +71,8 @@
 		123FB5CF21A9C75700EBBB02 /* TestData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TestData.json; sourceTree = "<group>"; };
 		123FB5D221A9C79500EBBB02 /* DataParserTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataParserTests.swift; sourceTree = "<group>"; };
 		123FB5D721A9CB2A00EBBB02 /* XCTestCase+Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "XCTestCase+Utilities.swift"; sourceTree = "<group>"; };
+		125257A821ABC0AE006D716C /* UIImageView+Utilites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+Utilites.swift"; sourceTree = "<group>"; };
+		125257AA21ABC264006D716C /* default-image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "default-image.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +206,7 @@
 			isa = PBXGroup;
 			children = (
 				123FB58521A9084900EBBB02 /* String+utilites.swift */,
+				125257A821ABC0AE006D716C /* UIImageView+Utilites.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -218,6 +223,7 @@
 			isa = PBXGroup;
 			children = (
 				123FB5CF21A9C75700EBBB02 /* TestData.json */,
+				125257AA21ABC264006D716C /* default-image.png */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
@@ -337,6 +343,7 @@
 				123FB54821A8F77C00EBBB02 /* Assets.xcassets in Resources */,
 				123FB54621A8F77B00EBBB02 /* Main.storyboard in Resources */,
 				12D59BBB21A9D7DC00389867 /* TestData.json in Resources */,
+				125257AB21ABC264006D716C /* default-image.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -364,6 +371,7 @@
 				123FB57B21A8F96B00EBBB02 /* APIManager.swift in Sources */,
 				123FB57821A8F89100EBBB02 /* NewsDetailsViewController.swift in Sources */,
 				123FB58821A9389600EBBB02 /* NewListCell.swift in Sources */,
+				125257A921ABC0AE006D716C /* UIImageView+Utilites.swift in Sources */,
 				123FB57D21A9020D00EBBB02 /* News.swift in Sources */,
 				123FB58621A9084900EBBB02 /* String+utilites.swift in Sources */,
 				123FB57621A8F87400EBBB02 /* NewsListViewController.swift in Sources */,

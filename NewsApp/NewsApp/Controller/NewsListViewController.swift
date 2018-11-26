@@ -127,6 +127,7 @@ class NewsListViewController: UITableViewController, UISearchBarDelegate, NewsUp
         cell.newsTitle?.text = newsObject.title
         cell.newsByTitle?.text = newsObject.byLine
         cell.newsDate.text = newsObject.publishingDateString
+        cell.newsImageView.imageFromURl(newsObject.imageUrl, placeholderImage: UIImage(named: "default-image.png")!)
         return cell
     }
     
